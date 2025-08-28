@@ -7,7 +7,7 @@ The goal of this project is to build a basic web page using HTML5 semantic tags,
 
 ## Features
 - Semantic HTML5 structure:
-- Clear heading hierarchy: <h1> → <h2> → <h3> for content clarity.
+- Clear heading hierarchy: 
 - Accessibility enhancements:
   - aria-label for navigation.
   - <label> tags for form fields.
