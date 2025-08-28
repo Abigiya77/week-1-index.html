@@ -6,7 +6,7 @@ The goal of this project is to build a basic web page using HTML5 semantic tags,
 ---
 
 ## Features
-- Semantic HTML5 structure: <header>, <nav>, <main>, <section>, <article>, <footer>.
+- Semantic HTML5 structure:
 - Clear heading hierarchy: <h1> → <h2> → <h3> for content clarity.
 - Accessibility enhancements:
   - aria-label for navigation.
@@ -28,4 +28,4 @@ The goal of this project is to build a basic web page using HTML5 semantic tags,
 2. Open index.html in a web browser.
 
 author
-Abigiya Diribsa
+- Abigiya Diribsa
